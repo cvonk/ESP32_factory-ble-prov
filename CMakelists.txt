@@ -1,0 +1,4 @@
+set(COMPONENT_SRCS src/ble_prov.c src/protocomm_handlers.c)
+set(COMPONENT_ADD_INCLUDEDIRS "include")
+set(COMPONENT_REQUIRES nvs_flash bt protocomm wifi_provisioning)
+register_component()
