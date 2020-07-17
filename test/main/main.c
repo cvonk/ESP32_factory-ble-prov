@@ -20,7 +20,7 @@
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>
 
-#include <ble_prov.h>
+#include <factory_ble_prov.h>
 //#include "ota_update_task.h"
 
 /**

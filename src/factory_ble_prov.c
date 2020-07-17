@@ -25,7 +25,7 @@
 #include <protocomm_security1.h>
 #include <wifi_provisioning/wifi_config.h>
 
-#include "ble_prov.h"
+#include "factory_ble_prov.h"
 #include "protocomm_handlers.h"
 
 static char const * const TAG = "ble_prov";

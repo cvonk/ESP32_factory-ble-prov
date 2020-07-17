@@ -21,7 +21,7 @@
 #include <esp_netif.h>
 #include <wifi_provisioning/wifi_config.h>
 
-#include "ble_prov.h"
+#include "factory_ble_prov.h"
 
 static char const * const TAG = "ble_prov_handler";
 
