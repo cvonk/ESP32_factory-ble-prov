@@ -1,6 +1,6 @@
 # ESP32 - WiFi Provisioning over BLE
 
-[![LICENSE](https://img.shields.io/github/license/jvonk/pact)](LICENSE)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/OPNpool)](https://github.com/cvonk/ESP32_factory-ble-prov/discussions) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cvonk/ESP32_factory-ble-prov?include_prereleases&logo=DocuSign&logoColor=%23fff) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/cvonk/ESP32_factory-ble-prov/esp-idf) ![GitHub](https://img.shields.io/github/license/cvonk/ESP32_factory-ble-prov)
 
 ## Goal
 
@@ -73,13 +73,3 @@ A good place to initiate the OTA update would be after receiving `IP_EVENT_STA_G
 ## Feedback
 
 We love to hear from you. Please use the usual Github mechanisms to contact me.
-
-## LICENSE
-
-Copyright 2020 Coert Vonk
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
