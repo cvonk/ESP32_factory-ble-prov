@@ -1,6 +1,6 @@
 # ESP32 - WiFi Provisioning over BLE
 
-[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/OPNpool)](https://github.com/cvonk/ESP32_factory-ble-prov/discussions) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cvonk/ESP32_factory-ble-prov?include_prereleases&logo=DocuSign&logoColor=%23fff) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/cvonk/ESP32_factory-ble-prov/esp-idf) ![GitHub](https://img.shields.io/github/license/cvonk/ESP32_factory-ble-prov)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/OPNpool)](https://github.com/cvonk/ESP32_factory-ble-prov/discussions) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cvonk/ESP32_factory-ble-prov?include_prereleases&logo=DocuSign&logoColor=%23fff) ![GitHub](https://img.shields.io/github/license/cvonk/ESP32_factory-ble-prov)
 
 ## Goal
 
@@ -72,4 +72,4 @@ A good place to initiate the OTA update would be after receiving `IP_EVENT_STA_G
 
 ## Feedback
 
-We love to hear from you. Please use the usual Github mechanisms to contact me.
+We love to hear from you. Please use the Github discussion mechanisms to contact me.
