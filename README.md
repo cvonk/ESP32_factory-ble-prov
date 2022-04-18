@@ -1,6 +1,8 @@
 # ESP32 - WiFi Provisioning over BLE
 
-[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/OPNpool)](https://github.com/cvonk/ESP32_factory-ble-prov/discussions) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cvonk/ESP32_factory-ble-prov?include_prereleases&logo=DocuSign&logoColor=%23fff) ![GitHub](https://img.shields.io/github/license/cvonk/ESP32_factory-ble-prov)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cvonk/ESP32_factory-ble-prov](https://github.com/cvonk/ESP32_factory-ble-prov/discussions)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cvonk/ESP32_factory-ble-prov)
+![GitHub](https://img.shields.io/github/license/cvonk/ESP32_factory-ble-prov)
 
 ## Goal
 
