@@ -1,13 +1,3 @@
-/* based on: ...\espressif\esp-idf-v4.1-beta2\examples\provisioning\legacy\ble_prov\main\ble_prov.h
-   BLE based Provisioning Example
-
-   This example code is in the Public Domain (or CC0 licensed, at your option.)
-
-   Unless required by applicable law or agreed to in writing, this
-   software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-   CONDITIONS OF ANY KIND, either express or implied.
-*/
-
 #pragma once
 
 #include <protocomm_security.h>
@@ -81,7 +71,7 @@ esp_err_t ble_prov_configure_sta(wifi_config_t * const wifi_cfg);
  *  - ESP_OK      : Provisioning started successfully
  *  - ESP_FAIL    : Failed to start
  */
-esp_err_t ble_prov_start_provisioning(const char *ble_device_name_prefix, int security, const protocomm_security_pop_t *pop);
+esp_err_t ble_prov_start_provisioning(const char *ble_device_name_prefix, int security, char const * const pop);
 
 #ifdef __cplusplus
 }
